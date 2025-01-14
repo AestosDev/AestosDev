@@ -1,7 +1,3 @@
-# Welcome to My GitHub!
-
-Hi there! 👋 I'm **Adrian**, a passionate software developer from **Germany**. I specialize in **applied technology**.
-
 ## 💡 Skills & Expertise
 
 Here are the key technologies and tools I work with:
