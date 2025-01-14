@@ -11,6 +11,7 @@ Here are the key technologies and tools I work with:
 - **SQL Server** – Expertise in building and optimizing relational database systems.
 - **MySQL** – Familiarity with open-source relational databases for scalable applications.
 - **Redis** – Utilizing Redis for fast, in-memory data storage and caching.
+- **PostgreSQL** – Recently learned PostgreSQL, which I find incredibly powerful due to its advanced features like JSONB, full-text search, and superior performance with complex queries. It's an excellent choice for scalable and flexible database solutions.
 
 ### 🔒 **Security & Best Practices**
 - **OAuth2 / OpenID** – Implementing secure authentication and authorization systems.
