@@ -27,8 +27,10 @@ Key components of Frostvein include:
 - A Standalone Log Server designed as an API, allowing the World Server to make calls without direct interaction.
 - A Service Manager that handles Items, Monsters, NPCs, Guri, Commands and Character Management, ensuring efficient game world processing.
 - A dedicated Bazaar, Friendlist, Blacklist, and Mail server, called Communication Server, which communicates through an inter-channel service for seamless operation across different Channels.
-- A completely reworked Battle System that performs at an almost identical level to the official servers. It’s backed by an extremely smooth BCard System (pluggable) that can be easily customized to suit different game needs. 
+- A completely reworked Battle System that performs at an almost identical level to the official servers. It’s backed by an extremely smooth BCard System (pluggable) that can be easily customized to suit different game needs.
+- A anti-cheat Service called **Titan Shield**. 
 - Proper Database access without the need of direct Database Calls
+- A proper scripting service utilizing LUA instead of XML. LUA was chosen because it is far more efficient and maintainable than XML, allowing for much easier modification and extension. Unlike XML, which can become cumbersome and difficult to manage for complex systems, LUA provides greater flexibility, performance, and readability. This makes it ideal for handling Raids, TimeSpaces, and specialized Events, where dynamic logic and performance are critical.
 - All Bottlenecks from OpenNos have been located and reworked. 
 
 ## 🌱 Continuous Learning
