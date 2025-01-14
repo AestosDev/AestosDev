@@ -31,7 +31,7 @@ Key components of Frostvein include:
 - A anti-cheat Service called **Titan Shield**. 
 - Proper Database access without the need of direct Database Calls
 - A proper scripting service utilizing LUA instead of XML. LUA was chosen because it is far more efficient and maintainable than XML, allowing for much easier modification and extension. Unlike XML, which can become cumbersome and difficult to manage for complex systems, LUA provides greater flexibility, performance, and readability. This makes it ideal for handling Raids, TimeSpaces, and specialized Events, where dynamic logic and performance are critical.
-- All Bottlenecks from OpenNos have been located and reworked. 
+- All performance bottlenecks, NullReferenceExceptions (NREs), and other critical issues from OpenNos have been thoroughly identified and reworked, resulting in a significantly optimized and stable system. Frostvein is designed in such a modular and independent way that NREs should no longer occur, as each system operates in isolation, minimizing the risk of unintended dependencies. By addressing these inefficiencies, Frostvein now runs with improved performance, stability, and responsiveness, even under heavy load.
 
 ## 🌱 Continuous Learning
 I'm always eager to learn new technologies and methodologies to keep my skills sharp and stay ahead in the ever-evolving world of tech. Currently, I'm diving deeper into **cloud-native architectures** and **machine learning**.
