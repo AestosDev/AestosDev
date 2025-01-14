@@ -17,8 +17,8 @@ Here are the key technologies and tools I work with:
 - **Encryption** – Ensuring data privacy and security with advanced encryption techniques.
 - **Code Reviews & Quality Assurance** – Maintaining high-quality, maintainable code.
 
-### 💻 **Frostvein **
-- My greatest achievement is my OpenNos fork (An MMORPG Emulator for the Game NosTale), called **Frostvein**. In this project, I migrated to .NET 8.0, reworked core systems, and integrated advanced technologies like Redis and gRPC to enhance performance and scalability. The system is built with a modular plugin architecture, allowing for easy extension and maintenance.
+### 💻 **Frostvein**
+My greatest achievement is my OpenNos fork (An MMORPG Emulator for the Game NosTale), called **Frostvein**. In this project, I migrated to .NET 8.0, reworked core systems, and integrated advanced technologies like Redis and gRPC to enhance performance and scalability. The system is built with a modular plugin architecture, allowing for easy extension and maintenance.
 
 Frostvein is feature-complete, supporting 100% of the systems and approximately 95% of the official algorithms. The project is not only stable and high-performing but also incorporates a wide range of security systems, which have proven to be both functional and highly efficient.
 
