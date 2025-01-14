@@ -27,10 +27,9 @@ Key components of Frostvein include:
 - A Standalone Log Server designed as an API, allowing the World Server to make calls without direct interaction.
 - A Service Manager that handles Items, Monsters, NPCs, Guri, Commands and Character Management, ensuring efficient game world processing.
 - A dedicated Bazaar, Friendlist, Blacklist, and Mail server, called Communication Server, which communicates through an inter-channel service for seamless operation across different Channels.
-- A completely reworked Battle System that performs at an almost identical level to the official servers. It’s backed by an extremely smooth BCard System (pluggable) that can be easily customized to suit different game needs.
+- A completely reworked Battle System that performs at an almost identical level to the official servers. It’s backed by an extremely smooth BCard System (pluggable) that can be easily customized to suit different game needs. The Battle System’s performance is nearly on par with official servers, ensuring a high-quality, responsive experience for players.
 - Proper Database access without the need of direct Database Calls
-- All Bottlenecks from OpenNos have been located and demolished. 
-The Battle System’s performance is nearly on par with official servers, ensuring a high-quality, responsive experience for players.
+- All Bottlenecks from OpenNos have been located and reworked. 
 
 ## 🌱 Continuous Learning
 I'm always eager to learn new technologies and methodologies to keep my skills sharp and stay ahead in the ever-evolving world of tech. Currently, I'm diving deeper into **cloud-native architectures** and **machine learning**.
